@@ -1,4 +1,4 @@
-## नमस्ते 🙏
+## जय श्री राम 🙏
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/01naveenv/)](https://www.linkedin.com/in/01naveenv/)
 [![](https://img.shields.io/badge/Telegram-naveenv01-blue)](https://t.me/naveenv01)
 [![](https://img.shields.io/badge/Leetcode-naveenverma-brightgreen)](https://leetcode.com/naveenverma/)
@@ -30,6 +30,7 @@ const Naveen = {
 ```
 [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=naveenverma1&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/naveenverma1)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <br>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-⭐️ From [naveenverma1](https://github.com/naveenverma1)
+
